@@ -10,7 +10,7 @@ This project is a small, simple **Retrieval-Augmented Generation (RAG)** system 
 * Interact with the system using a **command-line interface (CLI)**
 
 The code is written to be easy to follow and modify.
-
+[![Open In Colab](https://colab.research.google.com/drive/1_882_kPb0gP5-OQJXjF9sPCT8ukiqilg?usp=sharing]
 ---
 
 ## 1. Project Structure
