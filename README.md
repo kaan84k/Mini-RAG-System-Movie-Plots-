@@ -11,6 +11,8 @@ This project is a small, simple **Retrieval-Augmented Generation (RAG)** system 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_882_kPb0gP5-OQJXjF9sPCT8ukiqilg?usp=sharing)
 
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download&utm_source=chatgpt.com)
+
 ---
 
 ## 1. Project Structure
